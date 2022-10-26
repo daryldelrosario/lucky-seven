@@ -16,11 +16,11 @@ This is a simple game with the following rules:
     * otherwise, player loses $1   
 
 There are two states to the page:   
-* Initial Layout
+* Initial Layout  
 <kbd><img src="img/initial-layout.png" alt="Initial Layout When User Begins to Play Lucky Seven" width="143px"></kbd>
     
-* End of Game Output
-<img src="img/end-of-game-output.png" alt="End of Game Output Layout for Lucky Seven" width="143px">   
+* End of Game Output   
+<kbd><img src="img/end-of-game-output.png" alt="End of Game Output Layout for Lucky Seven" width="143px"></kbd>   
 
 ### Flowchart
 
