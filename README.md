@@ -17,10 +17,12 @@ This is a simple game with the following rules:
 
 There are two states to the page:   
 * Initial Layout
-<img src="img/initial-layout.png" alt="Initial Layout When User Begins to Play Lucky Seven" width="143px">  
+<img src="img/initial-layout.png" alt="Initial Layout When User Begins to Play Lucky Seven" width="143px"> 
+Initial Layout Diagram 
     
 * End of Game Output
 <img src="img/end-of-game-output.png" alt="End of Game Output Layout for Lucky Seven" width="143px">   
+End of Game Output Diagram
 
 ### Flowchart
 
